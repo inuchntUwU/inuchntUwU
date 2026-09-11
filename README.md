@@ -7,4 +7,6 @@
 <a target="_blank" href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a>
 <a target="_blank" href="https://www.adobe.com/products/illustrator.html"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 <a target="_blank" href="https://www.adobe.com/products/photoshop.html"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=inuchntUwU&show_icons=true&locale=en" alt="inuchntUwU" /></p>
+<h2>📊 GitHub Stats</h2>
+<p><img src="./profile/stats.svg" alt="GitHub Stats" />
+<img src="./profile/top-langs.svg" alt="Top Languages" /></p>
